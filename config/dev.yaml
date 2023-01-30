@@ -1,6 +1,6 @@
 db:
-  user: postgres
-  password: postgres
+  db_user: postgres
+  db_pass: postgres
   host: postgres
   port: 5432
   database: sqli
